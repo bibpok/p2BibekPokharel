@@ -2,14 +2,14 @@ body{
   background:skyblue;
 }
 h1{
-  text-align: center;
+  margin-left: 10%
   text-decoration: underline;
   text-shadow: 2px 2px 5px purple;
 }
 h3{
   font-size: 40px;
-  margin-top: 100px;
-  text-align: center;
+
+  margin-left: 10%
   text-decoration: underline;
   text-shadow: 2px 2px 5px purple;
 }
@@ -17,7 +17,7 @@ h3{
 p{
   font-size: 30px;
   font-style:oblique;
-  text-align: center;
+  
   font-weight: bold;
 
 }
@@ -53,33 +53,32 @@ figcaption{
 
 .ProCon{
 
-  margin-left: 35%;
+
   font-size: 20px;
-  margin-bottom: 100px;
   line-height: 50px;
 }
 
 .feature{
   font-size: 20px;
-  margin-left: 30%;
+
   line-height: 50px;
 }
 .use{
   font-size: 20px;
-  margin-left: 30%;
-  margin-bottom: 80px;
+
+/*  margin-bottom: 80px;*/
   line-height: 50px;
 }
 
 .Mistakes{
   font-size: 20px;
-  margin-left: 30%;
-  margin-bottom: 80px;
+
+  /*margin-bottom: 80px;*/
   line-height: 50px;
 }
 .Improve{
   font-size: 20px;
-  margin-left: 30%;
-  margin-bottom: 80px;
+
+/*  margin-bottom: 80px;*/
   line-height: 50px;
 }
