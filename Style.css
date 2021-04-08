@@ -24,6 +24,9 @@ p{
   font-weight: bold;
 
 }
+.nav{
+  margin-top:20%
+}
 .nav a{
   text-align: center;
   font-style: oblique;
