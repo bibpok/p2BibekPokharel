@@ -1,31 +1,29 @@
 body{
   background:skyblue;
-  
-}
-h1{
-  text-align: center;
-  
-  margin-left: 10%
-  text-decoration: underline;
-  text-shadow: 2px 2px 5px purple;
+
 }
 h3{
   font-size: 40px;
-
   margin-left: 10%
   text-decoration: underline;
   text-shadow: 2px 2px 5px purple;
 }
+h1{
+  text-align: center;
+  margin-left: 10%
+  text-decoration: underline;
+  text-shadow: 2px 2px 5px purple;
+}
+
 
 p{
   font-size: 30px;
   font-style:oblique;
-  
   font-weight: bold;
 
 }
 .nav{
-  margin-top:20%
+  margin-top: 20%
 }
 .nav a{
   text-align: center;
